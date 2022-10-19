@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17mylan" alt="17mylan" /></a> </p>
 
-                           - 🔭 I’m currently working on Unity and Unreal Engine Game development using C#
+                             - 🔭 I’m currently working on Unity and Unreal Engine Game development using C#
 
 
 <h3 align="center">Currently Learning:</h3>
