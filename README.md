@@ -1,5 +1,5 @@
-<h1 align="center">こんにちは I Am Ananthakrishnan</h1>
-<h3 align="center">Currently pursuing BTech AIE course in Amrita Vishwa Vidhyapeetham , Kollam.</h3>
+<h1 align="center">De Matteis Mylan</h1>
+<h3 align="center">Currently in studying at e-artsup Lyon, France.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=god-aks&label=Profile%20views&color=0e75b6&style=flat" alt="god-aks" /> </p>
 
