@@ -14,6 +14,3 @@
 
 <h3 align="center">Known Languages:</h3>
 <p align="center"> <a href="https://github.com/SkriptLang" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/24407938/43425610-d4c6475c-945b-11e8-809d-29136b617808.png" alt="csharp" width="40" height="40"/> </a> </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=17mylan&show_icons=true&locale=en&layout=compact" alt="17mylan" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=17mylan&show_icons=true&locale=en" alt="17mylan" /> </p>
